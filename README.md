@@ -4,9 +4,9 @@ _"Building apps that make life easier 🚀"_
 ---
 
 ## 🚀 About Me  
-🎓 Computer Science Student | Competitive Programmer (ICPC Community)  
-📱 Flutter Developer – Cross-Platform Mobile Applications (Android & iOS)  
-🔥 Passionate about Problem Solving & Clean Code
+📱 Flutter Developer – Cross-Platform Mobile Applications (Android & iOS)
+🔥 I am Focused on building clean, fast, and scalable mobile apps.
+🎓 Computer Science Student | Competitive Programmer (ICPC Community) 
 
 ---
 
