@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Safa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Amazing+Mobile+Apps;Clean+Code+%7C+High+Performance;ICPC+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Amazing+Mobile+Apps;Clean+Code+%7C+High+Performance;" />
 </p>
 
 ---
