@@ -11,18 +11,17 @@
 - 📱 **Flutter Developer** (Android & iOS)
 - 🔥 Focused on **clean, fast, scalable apps**
 - 🎓 Computer Science Student – **SCU**
-- 🧠 Competitive Programmer – **ICPC Community**
-- 💡 Interested in **Mobile Architecture & Performance**
 
 ---
 
-## 📩 Connect with me  
+## 📩 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/20mahmoud-safa06">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Safa-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-20Mahmoud--Safa06-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mahmoudsafa220@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-mahmoudsafa220%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
