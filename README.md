@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mahmoud Safa
-_"Building apps that make life easier 🚀"_
+_"Building apps that make life easier ✔️"_
 
 ---
 
