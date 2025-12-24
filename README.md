@@ -17,13 +17,14 @@
 ## 📩 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/20mahmoud-safa06">
-    <img src="https://img.shields.io/badge/LinkedIn-20Mahmoud--Safa06-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mahmoudsafa220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahmoudsafa220%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
+
 
 ---
 
@@ -52,10 +53,7 @@
 ## 🧰 Tools & Others
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,postman" />
 </p>
 
 ---
