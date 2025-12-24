@@ -14,21 +14,26 @@
 
 ---
 
-## 📩 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/20mahmoud-safa06">
-    <img src="https://img.shields.io/badge/LinkedIn-20Mahmoud--Safa06-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mahmoudsafa220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahmoudsafa220%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+## 🌟 Tech Stack
+
+### 🧩 Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🛠 Tools & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
 ## 🔤 Programming Languages
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
@@ -40,7 +45,6 @@
 ---
 
 ## 🎨 Frontend & Mobile
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
@@ -50,12 +54,27 @@
 ---
 
 ## 🧰 Tools & Others
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+</p>
+
+---
+
+## 📩 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/20mahmoud-safa06">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Safa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mahmoudsafa220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahmoudsafa220%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -89,6 +108,8 @@
 - Fast performance  
 
 🔗 [View Repository](https://github.com/20Mahmoud06/todoey)
+
+---
 
 <p align="center">
   ⭐️ From <a href="https://github.com/20Mahmoud06">Mahmoud Safa</a>
