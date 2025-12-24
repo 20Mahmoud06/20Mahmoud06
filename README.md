@@ -53,7 +53,7 @@
 ## 🧰 Tools & Others
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,androidstudio,git,github,figma,postman" />
 </p>
 
 ---
