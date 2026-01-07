@@ -9,8 +9,9 @@
 ## 🚀 About Me
 
 - 📱 **Flutter Developer** (Android & iOS)
-- 🔥 Focused on **clean, fast, scalable apps**
+- 🔥 Passionate about **clean, fast & scalable apps**
 - 🎓 Computer Science Student – **SCU**
+- 💡 Always learning & improving
 
 ---
 
@@ -24,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
-
 
 ---
 
@@ -60,35 +60,45 @@
 
 ## 📂 Featured Projects
 
-### ⚡ Flash Chat App
-🔥 Real-time messaging app using Flutter & Firebase  
-- Authentication  
-- Push Notifications  
-- Smart contact sync  
+### ⚡ Flash Chat — Real-Time Messaging App
+🔥 A modern chat app built with **Flutter + Firebase**  
+Includes:
+- 🔐 Secure Authentication  
+- 📞 Smart Contacts Sync  
+- 💬 Private & Group Chats  
+- 🔔 Push Notifications (FCM)  
+- 🎥 **Voice & Video Calls — Agora**  
+- 🎙️ **Voice Notes — Cloudinary**  
+- 📷 **Image & Video Sharing — Cloudinary**  
+- 😀 Emoji Avatars  
+- ✉️ Password Reset  
 
-🔗 [View Repository](https://github.com/20Mahmoud06/Flash-Chat)
-
----
-
-### 👟 Kutuku – Sneakers E-Commerce
-🛒 Cross-platform e-commerce app  
-- Firebase Auth  
-- Brand-based filtering  
-- Dynamic products (MockAPI)  
-
-🔗 [View Repository](https://github.com/20Mahmoud06/Kutuku)
+🔗 **Repository:** https://github.com/20Mahmoud06/Flash-Chat
 
 ---
 
-### 📝 Todoey – Task Manager
-✅ Offline-first To-Do app  
-- Hive Local Database  
-- Clean UI  
-- Fast performance  
+### 👟 Kutuku — Sneakers E-Commerce App
+🛒 Cross-platform sneakers store app built with Flutter  
+Features:
+- 🔐 Firebase Authentication  
+- 🏷️ Brand-based product filtering  
+- 📦 Dynamic products via MockAPI  
+- 🎨 Clean UI & smooth UX  
 
-🔗 [View Repository](https://github.com/20Mahmoud06/todoey)
+🔗 **Repository:** https://github.com/20Mahmoud06/Kutuku
+
+---
+
+### 📝 Todoey — Task Manager
+✅ Simple & fast To-Do App  
+- 📦 Hive Local Database  
+- 🌓 Clean UI design  
+- ⚡ Smooth performance  
+
+🔗 **Repository:** https://github.com/20Mahmoud06/todoey
+
+---
 
 <p align="center">
   ⭐️ From <a href="https://github.com/20Mahmoud06">Mahmoud Safa</a>
 </p>
- 
