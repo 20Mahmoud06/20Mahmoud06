@@ -77,6 +77,23 @@ Includes:
 
 ---
 
+### 🕌 Muslim App — Quran & Islamic Companion
+📖 Complete Islamic app built with Flutter
+Features:
+- 🕋 Accurate Prayer Times based on user location
+- 🧭 Qibla Compass with real-time direction updates
+- 📖 Quran reading with clean, readable interface
+- 📜 Hadith collection with daily Hadith feature
+- 🌙 Morning & Evening Azkar with progress tracking
+- 🕌 99 Names of Allah with meanings & reflections
+- 📅 Hijri Calendar & Upcoming Events
+- 🔔 Notifications for Azkar & Hadith
+- 📿 Digital Tasbih counter with goal selection
+
+🔗 **Repository:** https://github.com/20Mahmoud06/muslim 
+
+---
+
 ### 👟 Kutuku — Sneakers E-Commerce App
 🛒 Cross-platform sneakers store app built with Flutter  
 Features:
@@ -87,15 +104,6 @@ Features:
 
 🔗 **Repository:** https://github.com/20Mahmoud06/Kutuku
 
----
-
-### 📝 Todoey — Task Manager
-✅ Simple & fast To-Do App  
-- 📦 Hive Local Database  
-- 🌓 Clean UI design  
-- ⚡ Smooth performance  
-
-🔗 **Repository:** https://github.com/20Mahmoud06/todoey
 
 ---
 
