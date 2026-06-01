@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Safa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Amazing+Mobile+Apps;Clean+Code+%7C+High+Performance;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Beautiful+Mobile+Experiences;Clean+Architecture+%7C+Modern+UI%2FUX;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -74,6 +74,30 @@ Includes:
 - ✉️ Password Reset  
 
 🔗 **Repository:** https://github.com/20Mahmoud06/Flash-Chat
+
+---
+
+### 🎬 AURA — Cinematic Media Player
+
+🎵 Modern local media player built with **Flutter**
+
+Features:
+- 🎵 Local Music Playback
+- 🎬 Local Video Playback
+- 📺 Picture in Picture (PiP)
+- 🎧 Background Audio Playback
+- 📱 Continue Playing with Screen Off
+- 🔍 Smart Media Search
+- ❤️ Favorites Management
+- 📃 Playlist Support
+- 🎲 Quick Shuffle
+- 📂 Folder Browsing
+- 🔊 Swipe Volume Control
+- ☀️ Swipe Brightness Control
+- ⏩ Double Tap Seek
+- 🎨 Modern Liquid Glass UI
+
+🔗 **Repository:** https://github.com/20Mahmoud06/AURA
 
 ---
 
