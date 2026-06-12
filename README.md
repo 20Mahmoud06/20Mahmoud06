@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Beautiful+Mobile+Experiences;Clean+Architecture+%7C+Modern+UI%2FUX;Always+Learning+New+Technologies" />
 </p>
 
+<p align="center">
+  <a href="https://20mahmoud06.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
