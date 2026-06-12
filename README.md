@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://20mahmoud06.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-111827?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
