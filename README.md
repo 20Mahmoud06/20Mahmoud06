@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://20mahmoud06.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-111827?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+  🌐 <b><a href="https://20mahmoud06.github.io/My-Portfolio/">
+  View My Portfolio Website
+  </a></b>
 </p>
 
 ---
