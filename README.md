@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 - 📱 Flutter Developer (Android & iOS)
-- 🎓 Computer Science Student at Suez Canal University
+- 🎓 Computer Science Student @ Suez Canal University
 - 💙 Passionate about building clean, scalable, and user-friendly mobile applications
 - 🧠 Interested in Software Engineering, Mobile Development, and System Design
-- 🚀 Always learning new technologies and improving my development skills
+- 🚀 Passionate about continuous learning and building high-quality software.
 
 ---
 
@@ -42,16 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-### 🔥 Backend & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
 ### 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,vscode,androidstudio,git,github,figma,postman" />
 </p>
 
 ---
@@ -69,16 +63,6 @@
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://20mahmoud06.github.io/My-Portfolio/">
-    🌍 Visit My Portfolio
-  </a>
-</p>
-
----
-
 ## 📩 Connect With Me
 
 <p align="center">
@@ -89,14 +73,4 @@
   <a href="mailto:mahmoudsafa220@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=20Mahmoud06&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
