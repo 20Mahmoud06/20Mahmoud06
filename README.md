@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,javascript,html,css" />
 </p>
 
+---
+
 ### 🚀 Frameworks & Tools
 
 <p align="center">
