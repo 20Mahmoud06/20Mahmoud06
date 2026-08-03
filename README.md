@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## ☝️ About Me
 
 - 📱 Flutter Developer (Android & iOS)
 - 🎓 Computer Science Student @ Suez Canal University
@@ -24,8 +24,16 @@
 
 ## 💻 Tech Stack
 
+### 🔤 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,html,css,javascript,firebase,supabase,git,github,vscode,androidstudio,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,git,github,vscode,androidstudio,figma,postman" />
 </p>
 
 ---
