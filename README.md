@@ -18,34 +18,14 @@
 - 🎓 Computer Science Student @ Suez Canal University
 - 💙 Passionate about building clean, scalable, and user-friendly mobile applications
 - 🧠 Interested in Software Engineering, Mobile Development, and System Design
-- 🚀 Passionate about continuous learning and building high-quality software.
+- 🚀 Passionate about continuous learning and building high-quality software
 
 ---
 
 ## 💻 Tech Stack
 
-### 🔤 Programming Languages
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-### 📱 Mobile & Frontend
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,vscode,androidstudio,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,javascript,html,css,firebase,git,github,figma,vscode,androidstudio,postman" />
 </p>
 
 ---
@@ -53,12 +33,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=20Mahmoud06&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Mahmoud06&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=20Mahmoud06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20Mahmoud06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=20Mahmoud06&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/20Mahmoud06/20Mahmoud06/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/20Mahmoud06/20Mahmoud06/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/20Mahmoud06/20Mahmoud06/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
