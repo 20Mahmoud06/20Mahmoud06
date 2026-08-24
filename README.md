@@ -27,7 +27,7 @@
 ### 🔤 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,html,css,javascript, php" />
+  <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,html,css,javascript,php" />
 </p>
 
 ---
